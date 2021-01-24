@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/main.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAK","file":"main.f04ad511.js","sourceRoot":"..\\src","sourcesContent":["console.log ('Hello, world!')"]}
